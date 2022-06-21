@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1,CL | 24 HORAS *HD
 http://xdgo.live:8080/play/5912dwTk7OoeVC6G_i1YlxytKirHUHaX0h00oB63fx4/ts
 #EXTINF:-1,CL | 24 HORAS *FHD
